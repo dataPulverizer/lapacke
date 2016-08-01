@@ -5,10 +5,6 @@
 	"homepage": "http://www.active-analytics.com/",
 	"copyright": "Copyright © 2016, Chibisi Chima-Okereke",
 	"libs": ["lapacke", "lapack", "m"],
-	"dependencies": {
-		"cblas": "~>0.1.0",
-		"mir": "~>0.15.3"
-	},
 	"authors": [
 		"Chibisi Chima-Okereke"
 	],
