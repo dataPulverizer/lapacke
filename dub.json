@@ -1,0 +1,16 @@
+{
+	"name": "lapack",
+	"description": "D bindings for lapack",
+	"targetType": "library",
+	"homepage": "http://www.active-analytics.com/",
+	"copyright": "Copyright © 2016, Chibisi Chima-Okereke",
+	"libs": ["lapacke", "lapack", "m"],
+	"dependencies": {
+		"cblas": "~>0.1.0",
+		"mir": "~>0.15.3"
+	},
+	"authors": [
+		"Chibisi Chima-Okereke"
+	],
+	"license": "BSL-1.0"
+}
