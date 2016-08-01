@@ -29,4 +29,4 @@ void main()
 }
 ```
 
-The <a href="https://github.com/jacob-carlborg/dstep" target="_blank">dstep</a> D package was very useful in converting this library.
+The [`dstep`](https://github.com/jacob-carlborg/dstep) D package was very useful in converting this library.
