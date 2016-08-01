@@ -28,3 +28,5 @@ void main()
   writefln("Outputs: \n%s\n%s\n%s", s, u, vt);
 }
 ```
+
+The [`dstep`](https://github.com/jacob-carlborg/dstep) D package was very useful in converting this library.
