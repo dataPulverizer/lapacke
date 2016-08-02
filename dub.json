@@ -2,7 +2,7 @@
 	"name": "lapack",
 	"description": "D bindings for lapack",
 	"targetType": "library",
-	"homepage": "https://github.com/dataPulverizer/lapack",
+	"homepage": "http://www.active-analytics.com",
 	"copyright": "Copyright © 2016, Chibisi Chima-Okereke",
 	"libs": ["lapacke", "lapack", "m"],
 	"authors": [
