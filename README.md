@@ -4,7 +4,20 @@
 
 
 ```
-import std.stdio : writeln, writefln;
+#!/usr/bin/env dub
+/+ dub.json:
+{
+    "name": "testlapack",
+    "dependencies": {"lapack": "~>0.1.2"},
+}
++/
+
+/*
+*  Compile example:
+*  dub run --single testlapack.d
+*/
+
+import std.stdio : writefln;
 import lapack;
 import std.datetime : StopWatch;
 
