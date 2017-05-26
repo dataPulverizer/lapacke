@@ -4,8 +4,8 @@
     License:    Boost License 1.0
 */
 
-module lapack;
-import lapack.lapack;
+module lapacke;
+import lapacke.lapacke;
 
 unittest
 {
