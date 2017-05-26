@@ -4,7 +4,7 @@
     License:    Boost License 1.0
 */
 
-module lapack.lapack;
+module lapacke.lapacke;
 import std.complex : Complex;
 
 extern (C):
