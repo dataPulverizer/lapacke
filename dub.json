@@ -1,6 +1,6 @@
 {
-	"name": "lapack",
-	"description": "D bindings for lapack",
+	"name": "lapacke",
+	"description": "D bindings for lapacke",
 	"targetType": "library",
 	"homepage": "http://www.active-analytics.com",
 	"copyright": "Copyright © 2016, Chibisi Chima-Okereke",
