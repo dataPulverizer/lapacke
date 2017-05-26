@@ -1,4 +1,4 @@
-# D bindings for lapack
+# D bindings for lapacke
 
 ## Example usage: SVD
 

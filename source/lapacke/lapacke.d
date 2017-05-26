@@ -1,4 +1,4 @@
-/** LAPACK bindings for D.
+/** LAPACKE bindings for D.
     Authors:    Chibisi Chima-Okereke
     Copyright:  Copyright (c) 2016, Chibisi Chima-Okereke. All rights reserved.
     License:    Boost License 1.0
