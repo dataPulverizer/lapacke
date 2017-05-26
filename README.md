@@ -8,7 +8,7 @@
 /+ dub.json:
 {
     "name": "testlapack",
-    "dependencies": {"lapack": "~>0.1.2"},
+    "dependencies": {"lapacke": "~>0.1.2"},
 }
 +/
 
